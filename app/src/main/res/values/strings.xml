@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pit App Outline</string>
+
+    <string-array name="options">
+        <item>Team Info</item>
+        <item>Robot Model</item>
+        <item>Match Status</item>
+        <item>Credits</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Information about our team and robot.</item>
+        <item>Interactable 3D model of our robot.</item>
+        <item>Information on our competitions.</item>
+        <item>HENRY</item>
+    </string-array>
+
+    <string name="teamInfo">2473 is our team! You can replace this with an image file in the
+    res folder! To make this display as image instead of text.
+    </string>
+
+</resources>
