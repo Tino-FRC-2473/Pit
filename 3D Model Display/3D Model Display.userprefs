@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="3D Model Display.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Spin.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MouseSpin.cs">
     <Files>
       <File FileName="Assets\Spin.cs" Line="1" Column="1" />
+      <File FileName="Assets\MouseSpin.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
