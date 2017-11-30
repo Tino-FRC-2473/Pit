@@ -1,0 +1,7 @@
+#Wed Nov 29 21:19:50 PST 2017
+base.0=C\:\\Users\\jojo\\Desktop\\HoldingPen\\PitDisplay\\ModelDisplay3D\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b6230f37a70b20135e0208dc2253c1c2c5711e40
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\jojo\\Desktop\\HoldingPen\\PitDisplay\\ModelDisplay3D\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_06cd4c6459e3b76c14b3988a9335243cc94883b2\\classes.dex
+base.1=C\:\\Users\\jojo\\Desktop\\HoldingPen\\PitDisplay\\ModelDisplay3D\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_06cd4c6459e3b76c14b3988a9335243cc94883b2
+file.0=C\:\\Users\\jojo\\Desktop\\HoldingPen\\PitDisplay\\ModelDisplay3D\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b6230f37a70b20135e0208dc2253c1c2c5711e40\\classes.dex
